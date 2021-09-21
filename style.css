@@ -1,0 +1,32 @@
+
+#mae{
+    height: 45%;
+    width: 20%;
+    background-color: black;
+    position: absolute;
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%);
+}
+#caixaNumeros{
+    color: white;
+    width: 50%;
+    height: 10%;
+    display: flex;
+    position:relative;
+    justify-content: flex-end;
+    font-size:4rem;
+    margin-top: 10%;
+}
+#container-caixaNumeros{
+    display: flex;
+    justify-content: flex-end;
+}
+#botoes{
+    color: white;
+    font-size:3rem;
+}
+
+.botoesEdit{
+    width: 12%;
+}
