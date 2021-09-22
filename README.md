@@ -1,8 +1,8 @@
 # Calculadora
 
-#Tecnologias usadas no projeto:
-##HTML
-##CSS
-##BOOTSTRAP
-##JavaScript
-##jQuery
+# Tecnologias usadas no projeto:
+## HTML
+## CSS
+## BOOTSTRAP
+## JavaScript
+## jQuery
